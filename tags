@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+Practice	practice.rb	/^class Practice$/;"	c
+initialize	practice.rb	/^  def initialize(ahihi = nil)$/;"	f	class:Practice
+ins_test_1	practice.rb	/^  def ins_test_1$/;"	f	class:Practice
+inst_test_2	practice.rb	/^  def inst_test_2$/;"	f	class:Practice
+read	practice.rb	/^  attr_reader :read$/;"	f	class:Practice
+return_proc_vs_lambda	proc_lambda.rb	/^def return_proc_vs_lambda(p)$/;"	f	class:Object
+run_2_procs	proc_lambda.rb	/^def run_2_procs(a, b)$/;"	f	class:Object
+test	proc_lambda.rb	/^def test$/;"	f	class:Object
+test_cla_1	practice.rb	/^  def self.test_cla_1$/;"	F	class:Practice
+test_cla_2	practice.rb	/^  def self.test_cla_2$/;"	F	class:Practice
+weight	practice.rb	/^  attr_accessor :weight$/;"	f	class:Practice
+weight=	practice.rb	/^  attr_accessor :weight$/;"	f	class:Practice
+write=	practice.rb	/^  attr_writer :write$/;"	f	class:Practice
